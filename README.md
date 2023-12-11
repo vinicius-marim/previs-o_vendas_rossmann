@@ -4,7 +4,7 @@
 
 Este projeto visa desenvolver modelo preditivo de vendas da rede de farmácias Rossmann
 
-Contexto: A presidência da rede de farmácia nos contratou para auxiliá-los para prever o comportamento das vendas com base nas informações sazonais das lojas para contribuir no planejamento de investimentos do ano seguinte.
+Contexto: A presidência da rede de farmácia nos contratou para auxiliá-los prever o comportamento das vendas com base nas informações sazonais das lojas para contribuir no planejamento de investimentos do ano seguinte.
 
 Nossa abordagem incluiu a Análise Exploratória dos Dados para melhor entender os dados e fornecer insights relevantes por meio da elaboração de hipóteses de negócio. Posteriormente, desenvolvemos um modelo de machine learning para identificar padrões das diversas lojas e capturar o movimento sazonal de cada uma delas.
 
