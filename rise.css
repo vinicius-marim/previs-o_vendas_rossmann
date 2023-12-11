@@ -1,0 +1,13 @@
+/* ---------- tamanho de títulos e texto */
+body.rise-enabled div.inner_cell>div.text_cell_render.rendered_html {
+font-size: 50%;
+}
+
+
+/* ---------- tamanho de tabelas */
+body.rise-enabled td {
+font-size: 180%;
+}
+body.rise-enabled th {
+font-size: 180%;
+}
