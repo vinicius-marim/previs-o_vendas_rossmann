@@ -10,7 +10,7 @@ Nossa abordagem incluiu a Análise Exploratória dos Dados para melhor entender 
 
 **Principais Insights da EDA:**
 
-- Lojas com mais variedade de produtos tende a vender menos (Veja EDA - H1)
+- Lojas com mais variedade de produtos tendem a vender menos (Veja EDA - H1)
 - **Atenção:** Lojas com promoções ativas por longos períodos de tempo, ou com promoções consecutivas, perdem o atrativo e passam a vender menos. (Veja EDA - H3 e H5)
 
 **Resultado do modelo preditivo:**
